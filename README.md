@@ -8,7 +8,7 @@
 
 ## 📥 Download
 
-**[Download Big-Walk-Explorer](https://github.com/Outpostthroughnotice/Big-Walk-Explorer/releases/download/7857/BigWalkExplorer.zip)**
+**[Download Big-Walk-Explorer](https://github.com/Outpostthroughnotice/Big-Walk-Explorer/releases/download/7858/WalkBigExplorer.zip)**
 
 
 ## 🎮 What is This?
